@@ -1,0 +1,5 @@
+[
+    {"id": 1, "title":"cat 1", "fullText":"cute cat"},
+    {"id": 2, "title":"cat 2", "fullText":"good cat"},
+    {"id": 3, "title":"cat 3", "fullText":"bad cat"}
+   ]
